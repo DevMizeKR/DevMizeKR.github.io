@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d4a96c1.css",
+    "main.js": "/static/js/main.bb3b831b.js",
+    "static/js/453.49d9e625.chunk.js": "/static/js/453.49d9e625.chunk.js",
+    "static/media/NEXON Kart Gothic ExtraBold.ttf": "/static/media/NEXON Kart Gothic ExtraBold.f810386362551ff21545.ttf",
+    "static/media/NEXON Kart Gothic Bold.ttf": "/static/media/NEXON Kart Gothic Bold.68a66605bb2fd523bf08.ttf",
+    "static/media/NEXON Kart Gothic Medium.ttf": "/static/media/NEXON Kart Gothic Medium.d7926cbbaa661dc5bf3d.ttf",
+    "static/media/fira-code-latin-400-normal.woff": "/static/media/fira-code-latin-400-normal.19569d5ca0d14a83dacd.woff",
+    "static/media/fira-code-latin-400-normal.woff2": "/static/media/fira-code-latin-400-normal.8d61e6fb0ce397d8bf21.woff2",
+    "static/media/fira-code-cyrillic-ext-400-normal.woff": "/static/media/fira-code-cyrillic-ext-400-normal.8ffd548f616ec4877cae.woff",
+    "static/media/fira-code-cyrillic-ext-400-normal.woff2": "/static/media/fira-code-cyrillic-ext-400-normal.10d519302bed0640c465.woff2",
+    "static/media/fira-code-latin-ext-400-normal.woff": "/static/media/fira-code-latin-ext-400-normal.a3e342ed877644d5314f.woff",
+    "static/media/fira-code-greek-400-normal.woff": "/static/media/fira-code-greek-400-normal.b9c9f2ff4f148977725d.woff",
+    "static/media/fira-code-cyrillic-400-normal.woff": "/static/media/fira-code-cyrillic-400-normal.578518196d02681d9a3e.woff",
+    "static/media/fira-code-latin-ext-400-normal.woff2": "/static/media/fira-code-latin-ext-400-normal.c1f7cdbb6bd05c0b5d3e.woff2",
+    "static/media/fira-code-greek-400-normal.woff2": "/static/media/fira-code-greek-400-normal.f8ae856159701ef33770.woff2",
+    "static/media/fira-code-greek-ext-400-normal.woff": "/static/media/fira-code-greek-ext-400-normal.a73ac824cd0e07477c68.woff",
+    "static/media/fira-code-cyrillic-400-normal.woff2": "/static/media/fira-code-cyrillic-400-normal.74afd03dc42ed672ee41.woff2",
+    "static/media/fira-code-symbols2-400-normal.woff": "/static/media/fira-code-symbols2-400-normal.1f7c96c2d63de965089f.woff",
+    "static/media/fira-code-greek-ext-400-normal.woff2": "/static/media/fira-code-greek-ext-400-normal.09670f26857fe83a1f67.woff2",
+    "static/media/fira-code-symbols2-400-normal.woff2": "/static/media/fira-code-symbols2-400-normal.0412f32d131ffee849a4.woff2",
+    "index.html": "/index.html",
+    "main.8d4a96c1.css.map": "/static/css/main.8d4a96c1.css.map",
+    "main.bb3b831b.js.map": "/static/js/main.bb3b831b.js.map",
+    "453.49d9e625.chunk.js.map": "/static/js/453.49d9e625.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d4a96c1.css",
+    "static/js/main.bb3b831b.js"
+  ]
+}
