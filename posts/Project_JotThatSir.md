@@ -38,6 +38,20 @@
 
 ## :camera: Screenshots
 * * *
+<div class="img-grid">
+    <img src="/media/post/Project_JotThatSir/JotThatSir_Screenshot_01.png">
+    <img src="/media/post/Project_JotThatSir/JotThatSir_Screenshot_02.png">
+    <img src="/media/post/Project_JotThatSir/JotThatSir_Screenshot_03.png">
+    <img src="/media/post/Project_JotThatSir/JotThatSir_Screenshot_04.png">
+</div>
+
+<style>
+.img-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.3rem;
+}
+</style>
 
 
 ## :trophy: Career
